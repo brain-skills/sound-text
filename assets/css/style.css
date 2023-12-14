@@ -1,0 +1,13 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+    font-weight: 400;
+    background: #fff;
+    padding: 0;
+    margin: 20px;
+}
+
+.main{
+    display: none;
+}
